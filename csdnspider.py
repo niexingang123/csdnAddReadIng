@@ -6,7 +6,7 @@ import random
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import threading
-
+ 
 urls = [
             'https://blog.csdn.net/Z1591090/article/details/82743872',
             'https://blog.csdn.net/Z1591090/article/details/88355955',
